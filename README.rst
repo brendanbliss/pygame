@@ -3,7 +3,7 @@
 About pygame
 ============
 
-     Pygame, the library is cross-platfrom and designed to make it easy to
+     Pygame, the library is cross-platform and designed to make it easy to
      write multimedia software, such as games, in Python. Pygame
      requires the Python language and SDL multimedia library. It can
      also make use of several other popular libraries.
@@ -39,7 +39,7 @@ Help
      If you are just getting started with pygame, you should be able to
      get started fairly quickly. Pygame comes with many tutorials and
      introductions. There is also full reference documentation for the
-     entire library. Browse the documentation from the documenantation
+     entire library. Browse the documentation from the documentation
      index. docs/index.html.
 
      On the pygame website, there is also an online copy of this
@@ -74,7 +74,7 @@ Credits
 
      Ulf Ekström for his pixel perfect collision detection code.
 
-     Pete Shinners - orginal author.
+     Pete Shinners - original author.
 
      David Clark - for filling the right-hand-man position
 
@@ -112,8 +112,8 @@ Credits
      Raiser, Austin Henry, Kaweh Kazemi, Arturo Aldama, Mike Mulcheck,
      Michael Benfield, David Lau
 
-     There's many more folks out there who've submitted helpful ideas, kept
-     this project going, and basically made my life easer, Thanks!
+     There are many more folks out there who've submitted helpful ideas, kept
+     this project going, and basically made my life easier, Thanks!
 
      Many thank you's for people making documentation comments, and adding to the
      pygame.org wiki.
